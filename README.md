@@ -1,0 +1,1 @@
+# NLP_Sentimental_based_Trading_Strategy
